@@ -1,2 +1,2 @@
-# Frist
-My frist Respository
+# 1st
+My 1st Respository
